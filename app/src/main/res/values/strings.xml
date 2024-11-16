@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTask2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header">Заголовок</string>
+    <string name="increment">INCREMENT</string>
+    <string name="input">Введите текст</string>
+    <string name="send">SEND</string>
+    <string name="clicked_x_times">Кликнули 0 раз</string>
+</resources>
